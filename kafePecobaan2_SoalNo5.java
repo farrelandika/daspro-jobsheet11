@@ -16,7 +16,6 @@ public class kafePecobaan2_SoalNo5 {
         System.out.println("6. Mie Goreng - Rp 10,000");
         System.out.println("========================");
 
-        // Cek kode promo
         if (kodePromo.equals("DISKON50")) {
             System.out.println("Kode Promo: " + kodePromo + " - Anda mendapatkan diskon 50%!");
         } else if (kodePromo.equals("DISKON30")) {
